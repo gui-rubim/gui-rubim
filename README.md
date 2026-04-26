@@ -1,6 +1,6 @@
 # Olá 👋, eu sou o Guilherme Rubim
 
-🎓 **Software Engineering Student  | Java & Spring Boot**
+🎓 **Software Engineering Student  | Java & Spring Boot**  
 🇧🇷 Brasil
 
 Estou construindo minha base em **desenvolvimento backend**, aprendendo na prática com **APIs REST**, **orientação a objetos e banco de dados**.
