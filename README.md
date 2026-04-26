@@ -1,7 +1,9 @@
 # Olá 👋, eu sou o Guilherme Rubim
 
-🎓 Estudante de Engenharia de Software | Java & Spring Boot
+🎓 **Software Engineering Student  | Java & Spring Boot**
+
 🇧🇷 Brasil
+
 Estou construindo minha base em **desenvolvimento backend**, aprendendo na prática com **APIs REST**, **orientação a objetos e banco de dados**.
 Focado em escrever **código limpo**, **bem estruturado** e que resolve **problemas reais**.
 Também trago um diferencial: visão de **design**, **comunicação e produto** — o que me ajuda a pensar além do código.
@@ -70,7 +72,7 @@ Também trago um diferencial: visão de **design**, **comunicação e produto** 
 ## 🚀 Filosofia
 
 > _"Todo erro de compilação, todo bug sem solução e toda documentação confusa.  
-> Não me travam — me ensinam. O que não me derruba, me torna um dev mais forte."_
+> Não me travam — me ensinam e me tornam mais tolerante a problemas."_
 
 
 ---
