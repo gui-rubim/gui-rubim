@@ -18,7 +18,7 @@ Também trago um diferencial: visão de **design**, **comunicação e produto** 
   <a href="https://instagram.com/SEU_@">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/SEU_PERFIL">
+  <a href="https://www.linkedin.com/in/guilhermerubimvieira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
