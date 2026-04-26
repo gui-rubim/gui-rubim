@@ -13,13 +13,13 @@ Também trago um diferencial: visão de **design**, **comunicação e produto** 
 
 <p align="left">
   <a href="https://github.com/gui-rubim">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/gui.vieeira_">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://instagram.com/SEU_@">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/guilhermerubimvieira/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/SEU_PERFIL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -76,6 +76,6 @@ Também trago um diferencial: visão de **design**, **comunicação e produto** 
 
 ---
 
-⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.
+⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos.  
 🤝 Sempre aberto a colaborações. parcerias e ideias inovadoras
 
